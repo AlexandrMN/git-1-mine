@@ -68,3 +68,6 @@ GitLab — веб-инструмент жизненного цикла DevOps с
 
 Существует git push
 > git push
+
+Существует git pull
+> git pull
